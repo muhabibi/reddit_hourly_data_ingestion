@@ -10,6 +10,7 @@ The lambda function will run based on triggers (e.g new creation object on S3, d
 Lambda function will have a limited time for completing the logic (curently maximum execution time is 15 mins)
 ## Overview
 ![alt text](https://github.com/muhabibi/reddit_hourly_data_ingestion/blob/main/pipeline.jpg?raw=true)
+
 This project is to pull API data and put them in databaseon hourly schedule.
 
 ## Data Pipeline
